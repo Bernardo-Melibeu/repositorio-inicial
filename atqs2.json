@@ -1,0 +1,308 @@
+{
+    "18": {
+        "name": "PIDGEOT","IVs":{"Vida":31,"Ataque":31,"Defesa":31,"Ataque especial":31,"Defesa especial":31,"Velocidade":31},
+                                    "EVs":{"Vida":252,"Ataque":252,"Defesa":252,"Ataque especial":252,"Defesa especial":252,"Velocidade":252},
+        "atq": {
+            "1": {
+                "name": "hurricane",
+                "type": {
+                    "name": "flying"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 110,
+                "accuracy": 70
+            },
+            "2": {
+                "name": "brave-bird",
+                "type": {
+                    "name": "normal"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 120,
+                "accuracy": 100
+            },
+            "3": {
+                "name": "steel-wings",
+                "type": {
+                    "name": "steel"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 70,
+                "accuracy": 90
+            },
+            "4": {
+                "name": "facade",
+                "type": {
+                    "name": "normal"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 70,
+                "accuracy": 100
+            }
+        }
+    },
+"65": {
+        "name": "ALAKAZAM","IVs":{"Vida":31,"Ataque":31,"Defesa":31,"Ataque especial":31,"Defesa especial":31,"Velocidade":31},
+                                    "EVs":{"Vida":252,"Ataque":252,"Defesa":252,"Ataque especial":252,"Defesa especial":252,"Velocidade":252},
+        "atq": {
+            "1": {
+                "name": "psychic",
+                "type": {
+                    "name": "psychic"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 90,
+                "accuracy": 100
+            },
+            "2": {
+                "name": "focus-blast",
+                "type": {
+                    "name": "fighting"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 120,
+                "accuracy": 70
+            },
+            "3": {
+                "name": "shadow-ball",
+                "type": {
+                    "name": "ghost"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 80,
+                "accuracy": 100
+            },
+            "4": {
+                "name": "dazzling-gleam",
+                "type": {
+                    "name": "fairy"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 80,
+                "accuracy": 100
+            }
+        }
+    },
+"112": {
+        "name": "RHYDON","IVs":{"Vida":31,"Ataque":31,"Defesa":31,"Ataque especial":31,"Defesa especial":31,"Velocidade":31},
+                                    "EVs":{"Vida":252,"Ataque":252,"Defesa":252,"Ataque especial":252,"Defesa especial":252,"Velocidade":252},
+        "atq": {
+            "1": {
+                "name": "earthquake",
+                "type": {
+                    "name": "ground"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 100,
+                "accuracy": 100
+            },
+            "2": {
+                "name": "stone-edge",
+                "type": {
+                    "name": "rock"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 100,
+                "accuracy": 80
+            },
+            "3": {
+                "name": "brick-break",
+                "type": {
+                    "name": "fighting"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 75,
+                "accuracy": 100
+            },
+            "4": {
+                "name": "poison-jab",
+                "type": {
+                    "name": "poison"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 80,
+                "accuracy": 100
+            }
+        }
+    },
+"103": {
+        "name": "EXEGGUTOR","IVs":{"Vida":31,"Ataque":31,"Defesa":31,"Ataque especial":31,"Defesa especial":31,"Velocidade":31},
+                                    "EVs":{"Vida":252,"Ataque":252,"Defesa":252,"Ataque especial":252,"Defesa especial":252,"Velocidade":252},
+        "atq": {
+            "1": {
+                "name": "psychic",
+                "type": {
+                    "name": "psychic"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 90,
+                "accuracy": 100
+            },
+            "2": {
+                "name": "sludge-bomb",
+                "type": {
+                    "name": "poison"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 90,
+                "accuracy": 100
+            },
+            "3": {
+                "name": "energy-ball",
+                "type": {
+                    "name": "grass"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 90,
+                "accuracy": 100
+            },
+            "4": {
+                "name": "ancient-power",
+                "type": {
+                    "name": "earth"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 60,
+                "accuracy": 100
+            }
+        }
+    },
+"59": {
+        "name": "ARCANINE","IVs":{"Vida":31,"Ataque":31,"Defesa":31,"Ataque especial":31,"Defesa especial":31,"Velocidade":31},
+                                    "EVs":{"Vida":252,"Ataque":252,"Defesa":252,"Ataque especial":252,"Defesa especial":252,"Velocidade":252},
+        "atq": {
+            "1": {
+                "name": "flare-blitz",
+                "type": {
+                    "name": "fire"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 120,
+                "accuracy": 100
+            },
+            "2": {
+                "name": "play-rough",
+                "type": {
+                    "name": "fairy"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 90,
+                "accuracy": 90
+            },
+            "3": {
+                "name": "wild-charge",
+                "type": {
+                    "name": "electric"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 90,
+                "accuracy": 100
+            },
+            "4": {
+                "name": "crunch",
+                "type": {
+                    "name": "dark"
+                },
+                "damage_class": {
+                    "name": "physical"
+                },
+                "power": 80,
+                "accuracy": 85
+            }
+        }
+    },
+"9": {
+        "name": "BLASTOISE","IVs":{"Vida":31,"Ataque":31,"Defesa":31,"Ataque especial":31,"Defesa especial":31,"Velocidade":31},
+                                    "EVs":{"Vida":252,"Ataque":252,"Defesa":252,"Ataque especial":252,"Defesa especial":252,"Velocidade":252},
+        "atq": {
+            "1": {
+                "name": "blizzard",
+                "type": {
+                    "name": "ice"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 110,
+                "accuracy": 70
+            },
+            "2": {
+                "name": "flash-cannon",
+                "type": {
+                    "name": "steel"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 80,
+                "accuracy": 100
+            },
+            "3": {
+                "name": "focus-blast",
+                "type": {
+                    "name": "fighting"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 120,
+                "accuracy": 70
+            },
+            "4": {
+                "name": "hydro-pump",
+                "type": {
+                    "name": "water"
+                },
+                "damage_class": {
+                    "name": "special"
+                },
+                "power": 110,
+                "accuracy": 80
+            }
+        }
+    }
+
+
+
+
+
+
+}

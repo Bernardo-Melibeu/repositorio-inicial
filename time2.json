@@ -1,0 +1,168 @@
+{
+    "18": {
+        "Nome": "PIDGEOT",
+        "tipos": [
+            "normal",
+            "flying"
+        ],
+        "Cor": "brown",
+        "Texto": "When hunting, it\nskims the surface\nof water at high\fspeed to pick off\nunwary prey such\nas MAGIKARP.",
+        "pre-evolu\u00e7\u00e3o": "pidgeotto",
+        "habitat": "forest",
+        "lendario": false,
+        "forma": "wings",
+        "Grupo de Ovos": [
+            "flying"
+        ],
+        "Altura": 150,
+        "Peso": 39.5,
+        "taxa de captura": 45,
+        "atributos": {
+            "Vida": 83,
+            "Ataque": 80,
+            "Defesa": 75,
+            "Ataque especial": 70,
+            "Defesa especial": 70,
+            "Velocidade": 101
+        }
+    },
+
+    "65": {
+        "Nome": "ALAKAZAM",
+        "tipos": [
+            "psychic"
+        ],
+        "Cor": "brown",
+        "Texto": "Its brain can out\u00ad\nperform a super\u00ad\ncomputer.\fIts intelligence\nquotient is said\nto be 5,000.",
+        "pre-evolu\u00e7\u00e3o": "kadabra",
+        "habitat": "urban",
+        "lendario": false,
+        "forma": "humanoid",
+        "Grupo de Ovos": [
+            "humanshape"
+        ],
+        "Altura": 150,
+        "Peso": 48.0,
+        "taxa de captura": 50,
+        "atributos": {
+            "Vida": 55,
+            "Ataque": 50,
+            "Defesa": 45,
+            "Ataque especial": 135,
+            "Defesa especial": 95,
+            "Velocidade": 120
+        }
+    },
+
+    "112": {
+        "Nome": "RHYDON",
+        "tipos": [
+            "ground",
+            "rock"
+        ],
+        "Cor": "gray",
+        "Texto": "Protected by an\narmor-like hide,\nit is capable of\fliving in molten\nlava of 3,600\ndegrees.",
+        "pre-evolu\u00e7\u00e3o": "rhyhorn",
+        "habitat": "rough-terrain",
+        "lendario": false,
+        "forma": "upright",
+        "Grupo de Ovos": [
+            "monster",
+            "ground"
+        ],
+        "Altura": 190,
+        "Peso": 120.0,
+        "taxa de captura": 60,
+        "atributos": {
+            "Vida": 105,
+            "Ataque": 130,
+            "Defesa": 120,
+            "Ataque especial": 45,
+            "Defesa especial": 45,
+            "Velocidade": 40
+        }
+    },
+
+    "103": {
+        "Nome": "EXEGGUTOR",
+        "tipos": [
+            "grass",
+            "psychic"
+        ],
+        "Cor": "yellow",
+        "Texto": "Legend has it that\non rare occasions,\none of its heads\fwill drop off and\ncontinue on as an\nEXEGGCUTE.",
+        "pre-evolu\u00e7\u00e3o": "exeggcute",
+        "habitat": "forest",
+        "lendario": false,
+        "forma": "legs",
+        "Grupo de Ovos": [
+            "plant"
+        ],
+        "Altura": 200,
+        "Peso": 120.0,
+        "taxa de captura": 45,
+        "atributos": {
+            "Vida": 95,
+            "Ataque": 95,
+            "Defesa": 85,
+            "Ataque especial": 125,
+            "Defesa especial": 75,
+            "Velocidade": 55
+        }
+    },
+
+    "59": {
+        "Nome": "ARCANINE",
+        "tipos": [
+            "fire"
+        ],
+        "Cor": "brown",
+        "Texto": "A POK\u00e9MON that\nhas been admired\nsince the past\ffor its beauty.\nIt runs agilely\nas if on wings.",
+        "pre-evolu\u00e7\u00e3o": "growlithe",
+        "habitat": "grassland",
+        "lendario": false,
+        "forma": "quadruped",
+        "Grupo de Ovos": [
+            "ground"
+        ],
+        "Altura": 190,
+        "Peso": 155.0,
+        "taxa de captura": 75,
+        "atributos": {
+            "Vida": 90,
+            "Ataque": 110,
+            "Defesa": 80,
+            "Ataque especial": 100,
+            "Defesa especial": 80,
+            "Velocidade": 95
+        }
+    },
+
+    "9": {
+        "Nome": "BLASTOISE",
+        "tipos": [
+            "water"
+        ],
+        "Cor": "blue",
+        "Texto": "A brutal POK\u00e9MON\nwith pressurized\nwater jets on its\fshell. They are\nused for high\nspeed tackles.",
+        "pre-evolu\u00e7\u00e3o": "wartortle",
+        "habitat": "waters-edge",
+        "lendario": false,
+        "forma": "upright",
+        "Grupo de Ovos": [
+            "monster",
+            "water1"
+        ],
+        "Altura": 160,
+        "Peso": 85.5,
+        "taxa de captura": 45,
+        "atributos": {
+            "Vida": 79,
+            "Ataque": 83,
+            "Defesa": 100,
+            "Ataque especial": 85,
+            "Defesa especial": 105,
+            "Velocidade": 78
+        }
+    }
+}

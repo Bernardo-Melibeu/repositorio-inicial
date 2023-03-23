@@ -1,0 +1,171 @@
+{
+    "25": {
+        "Nome": "PIKACHU",
+        "tipos": [
+            "electric"
+        ],
+        "Cor": "yellow",
+        "Texto": "When several of\nthese POK\u00e9MON\ngather, their\felectricity could\nbuild and cause\nlightning storms.",
+        "pre-evolu\u00e7\u00e3o": "pichu",
+        "habitat": "forest",
+        "lendario": false,
+        "forma": "quadruped",
+        "Grupo de Ovos": [
+            "ground",
+            "fairy"
+        ],
+        "Altura": 40,
+        "Peso": 6.0,
+        "taxa de captura": 190,
+        "atributos": {
+            "Vida": 35,
+            "Ataque": 55,
+            "Defesa": 40,
+            "Ataque especial": 50,
+            "Defesa especial": 50,
+            "Velocidade": 90
+        }
+    },
+
+    "143": {
+        "Nome": "SNORLAX",
+        "tipos": [
+            "normal"
+        ],
+        "Cor": "black",
+        "Texto": "Very lazy. Just\neats and sleeps.\nAs its rotund\fbulk builds, it\nbecomes steadily\nmore slothful.",
+        "pre-evolu\u00e7\u00e3o": "munchlax",
+        "habitat": "mountain",
+        "lendario": false,
+        "forma": "humanoid",
+        "Grupo de Ovos": [
+            "monster"
+        ],
+        "Altura": 210,
+        "Peso": 460.0,
+        "taxa de captura": 25,
+        "atributos": {
+            "Vida": 160,
+            "Ataque": 110,
+            "Defesa": 65,
+            "Ataque especial": 65,
+            "Defesa especial": 110,
+            "Velocidade": 30
+        }
+    }
+,
+    "131": {
+        "Nome": "LAPRAS",
+        "tipos": [
+            "water",
+            "ice"
+        ],
+        "Cor": "blue",
+        "Texto": "A POK\u00e9MON that\nhas been over\u00ad\nhunted almost to\fextinction. It\ncan ferry people\nacross the water.",
+        "pre-evolu\u00e7\u00e3o": null,
+        "habitat": "sea",
+        "lendario": false,
+        "forma": "fish",
+        "Grupo de Ovos": [
+            "monster",
+            "water1"
+        ],
+        "Altura": 250,
+        "Peso": 220.0,
+        "taxa de captura": 45,
+        "atributos": {
+            "Vida": 130,
+            "Ataque": 85,
+            "Defesa": 80,
+            "Ataque especial": 85,
+            "Defesa especial": 95,
+            "Velocidade": 60
+        }
+    }
+,
+    "3": {
+        "Nome": "VENUSAUR",
+        "tipos": [
+            "grass",
+            "poison"
+        ],
+        "Cor": "green",
+        "Texto": "The plant blooms\nwhen it is\nabsorbing solar\fenergy. It stays\non the move to\nseek sunlight.",
+        "pre-evolu\u00e7\u00e3o": "ivysaur",
+        "habitat": "grassland",
+        "lendario": false,
+        "forma": "quadruped",
+        "Grupo de Ovos": [
+            "monster",
+            "plant"
+        ],
+        "Altura": 200,
+        "Peso": 100.0,
+        "taxa de captura": 45,
+        "atributos": {
+            "Vida": 80,
+            "Ataque": 82,
+            "Defesa": 83,
+            "Ataque especial": 100,
+            "Defesa especial": 100,
+            "Velocidade": 80
+        }
+    }
+,
+    "6": {
+        "Nome": "CHARIZARD",
+        "tipos": [
+            "fire",
+            "flying"
+        ],
+        "Cor": "red",
+        "Texto": "Spits fire that\nis hot enough to\nmelt boulders.\fKnown to cause\nforest fires\nunintentionally.",
+        "pre-evolu\u00e7\u00e3o": "charmeleon",
+        "habitat": "mountain",
+        "lendario": false,
+        "forma": "upright",
+        "Grupo de Ovos": [
+            "monster",
+            "dragon"
+        ],
+        "Altura": 170,
+        "Peso": 90.5,
+        "taxa de captura": 45,
+        "atributos": {
+            "Vida": 78,
+            "Ataque": 84,
+            "Defesa": 78,
+            "Ataque especial": 109,
+            "Defesa especial": 85,
+            "Velocidade": 100
+        }
+    }
+,
+    "9": {
+        "Nome": "BLASTOISE",
+        "tipos": [
+            "water"
+        ],
+        "Cor": "blue",
+        "Texto": "A brutal POK\u00e9MON\nwith pressurized\nwater jets on its\fshell. They are\nused for high\nspeed tackles.",
+        "pre-evolu\u00e7\u00e3o": "wartortle",
+        "habitat": "waters-edge",
+        "lendario": false,
+        "forma": "upright",
+        "Grupo de Ovos": [
+            "monster",
+            "water1"
+        ],
+        "Altura": 160,
+        "Peso": 85.5,
+        "taxa de captura": 45,
+        "atributos": {
+            "Vida": 79,
+            "Ataque": 83,
+            "Defesa": 100,
+            "Ataque especial": 85,
+            "Defesa especial": 105,
+            "Velocidade": 78
+        }
+    }
+}
